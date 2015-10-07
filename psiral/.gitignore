@@ -1,0 +1,14 @@
+# ignored
+*.sublime-*
+*.orig
+**/*.zip
+build.number
+assets.todo/*
+build/*
+css/*.zip
+howler.js
+
+node_modules/*
+webkitbuilds/*
+
+libs/melonJS-1.*

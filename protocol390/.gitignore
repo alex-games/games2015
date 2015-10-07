@@ -1,0 +1,14 @@
+.actionScriptProperties
+.flexProperties
+.project
+.settings
+html-template
+bin-debug/
+flash/.actionScriptProperties
+flash/.flexProperties
+flash/.project
+flash/.settings
+flash/html-template
+flash/bin-debug/
+1120/misc/*
+1120/*

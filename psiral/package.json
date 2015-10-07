@@ -1,0 +1,41 @@
+{
+  "name": "Psiral",
+  "description": "Psiral is a turn-based strategy game with wizards.",
+  "version": "1.0.2-112",
+  "private": true,
+  "main": "index.html",
+  "author": {
+    "name": "Dvubuz Games",
+    "email": "",
+    "web": ""
+  },
+  "homepage": "http://psiral.herokuapp.com",
+  "devDependencies": {
+    "grunt": "latest",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.1.1",
+    "grunt-cli": "~0.1.13",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-replace": "~0.6.1",
+    "grunt-bump": "0.0.13",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-node-webkit-builder": "~0.1.17"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "window": {
+    "title": "Psiral",
+    "icon": "icon_48.png",
+    "toolbar": false,
+    "frame": false,
+    "min_width": 1024,
+    "min_height": 768,
+    "fullscreen": true
+  },
+  "chromium-args": "--disable-device-orientation"
+}

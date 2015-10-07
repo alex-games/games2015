@@ -1,0 +1,9 @@
+### ignored assets ###
+*.pyxel
+*.psd
+
+### sound
+*.flac
+*.txt
+*.wave
+*.wav
